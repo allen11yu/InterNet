@@ -1,0 +1,22 @@
+body {
+  width: 70%;
+  margin: auto;
+  background-color: rgb(228, 228, 236);
+  font-family: Arial, 'Helvetica Neue';
+}
+
+header {
+  text-align: center;
+}
+
+.description {
+  border-radius: 25px;
+  border: 2px solid rgb(116, 116, 241);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}

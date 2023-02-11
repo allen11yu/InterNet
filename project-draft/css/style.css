@@ -1,0 +1,463 @@
+/* fonts we have:
+font-family: 'Oswald', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+Arial
+Times New Romans
+
+Colors
+Rich Black FOGRA  #0D1821
+Independence      #344966
+Light Steel Blue  #B4CDED
+Baby Powder       #F0F4EF
+Sage              #BFCC94
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Oswald', 'Bebas Neue', Arial;
+}
+
+label {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+/* Nav bar styling for all pages */
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #344966;
+  font-family: 'Bebas Neue', 'Oswald', Arial;
+  font-size: 24px;
+  padding: 8px;
+}
+
+nav a {
+  color: #F0F4EF;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #F0F4EF;
+}
+
+#menu-left {
+  margin-left: 15px;
+}
+
+#menu-right {
+  margin-right: 5px;
+  display: none;
+}
+
+#menu-right a {
+  margin-right: 10px;
+}
+
+#hamburger-menu {
+  margin-right: 15px;
+}
+
+@media (min-width: 598px) {
+  #hamburger-menu {
+    display: none;
+  }
+
+  #menu-right {
+    display: block;
+  }
+}
+
+/* Footer styling for all pages */
+footer {
+  background-color: #344966;
+  color: #F0F4EF;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  padding: 10px;
+}
+
+footer p, footer a {
+  font-family: 'Bebas Neue', 'Oswald', Arial;
+  font-size: 16px;
+  margin: 0;
+}
+
+footer a {
+  margin-left: 5px;
+}
+
+.non-scroll-footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+/* index/about page */
+.welcome {
+  padding: 100px;
+  background-color: #F0F4EF;
+  display: flex;
+  align-items: center;
+}
+
+.welcome h2 {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.welcome img {
+  width: 600px;
+}
+
+button.btn {
+  background-color: #B4CDED;
+  border: #B4CDED solid;
+  font-family: 'Lato', Arial;
+}
+
+.mission {
+  padding: 100px;
+  background-color: #B4CDED;
+  display: flex;
+  align-items: center;
+}
+
+.mission img {
+  width: 500px;
+}
+
+.benefits {
+  padding: 50px;
+  background-color: #F0F4EF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.benefit-cards {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 50px;
+}
+
+.benefit-card {
+  margin: 10px;
+  text-align: center;
+}
+
+.benefits img {
+  width: 150px;
+}
+
+.text-box h3 {
+  font-family: 'Oswald', 'Bebas Neue', Arial;
+}
+
+.text-box p {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.benefits h4 {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.benefit-cards p {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.accolades {
+  padding: 100px;
+  background-color: #BFCC94;
+}
+
+.user-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
+
+.user-card img {
+  width: 250px;
+}
+
+.accolades h3 {
+  font-family: 'Oswald', 'Bebas Neue', Arial;
+}
+
+.user-des h2 {
+  font-family: 'Oswald', 'Bebas Neue', Arial;
+}
+
+.user-des p {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+@media (max-width: 768px) {
+  .welcome img {
+    width: 300px;
+  }
+
+  .welcome h2 {
+    font-size: 20px;
+  }
+
+
+  .mission img {
+    width: 250px;
+  }
+}
+
+@media (max-width: 598px) {
+  .welcome img {
+    display: none;
+  }
+
+  .welcome h2 {
+    font-size: 16px;
+  }
+
+  .mission img {
+    display: none;
+  }
+
+  .user-card img {
+    display: none;
+  }
+}
+
+/* Interactive page styling */
+.interactive-body {
+  background-color: #B4CDED;
+}
+
+#interactive-main {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.internship-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 70%;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.internship-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
+
+@media (max-width: 979px) {
+  .internship-detail {
+    flex-grow: 1;
+  }
+}
+
+.internship-des {
+  background-color: #F0F4EF;
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.internship-action {
+  display: flex;
+  justify-content: space-evenly;
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.internship-action div {
+  width: 30%;
+  background-color: #F0F4EF;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  cursor: pointer;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.internship-company img {
+  margin: auto;
+  margin-bottom: 10px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.internship-des h2 {
+  text-align: center;
+  font-family: 'Oswald', 'Bebas Neue', Arial;
+  font-size: 18px;
+}
+
+.internship-des p {
+  font-size: 12px;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+#ask-update {
+  text-align: center;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+@media (min-width: 579px) {
+  .internship-des h2 {
+    font-size: 24px;
+  }
+
+  .internship-des p {
+    font-size: 15px;
+  }
+}
+
+/*Section below is for the login page */
+.login-side {
+  flex-direction: column;
+  background-image: url('../img/login-bg.jpeg');
+  background-position: center;
+  background-size: cover;
+}
+
+.login-main {
+  display: flex;
+  text-align: center;
+  height: 950px;
+
+}
+
+.login-right {
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.login-btn {
+  background-color: #04AA6D;
+  width: 10rem;
+  margin-top: 10px;
+}
+
+.login-btn:hover {
+  background-color: #46a049;
+}
+
+.social-btn {
+  min-width: none;
+  max-width: 20rem;
+  align-self: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.login-side a img {
+  width: 1.5rem;
+  height: 1rem;
+}
+
+.login-entry {
+  margin-top: 10px;
+  align-self: center;
+}
+
+.login-right p {
+  margin-bottom: 0px;
+}
+
+.login-right h1 {
+  margin-top: 0px;
+}
+
+.login-right a {
+  text-decoration: none;
+}
+
+/* Profile styles */
+.profile-body {
+  background-color: #F0F4EF;
+}
+
+.card-body.profile {
+  background-color: #B4CDED;
+}
+
+.pb-3.rounded.img-fluid.mx-auto.d-block {
+  width: 100px;
+  height: 150px;
+}
+
+@media(max-width: 576px) {
+  div label {
+    display: none;
+    justify-items: center;
+  }
+
+  .col-lg-8.d-sm-flex.about {
+    display: none;
+  }
+
+  .form-control {
+    margin: 2px;
+  }
+
+  .card-title.text-center {
+    font-size: 35px;
+  }
+
+}
+
+@media(min-width: 576px) {
+  .profile label {
+    display: none;
+    justify-items: center;
+  }
+
+  .form-control {
+    margin: 2px;
+  }
+
+  .card-title.text-center {
+    font-size: 35px;
+  }
+
+  .professional .form-group.row {
+    justify-content: center;
+  }
+
+}
+
+@media(min-width: 992px) {
+  .profile label {
+    display: block;
+  }
+
+  .col-lg-8.d-sm-flex.summary, .col-lg-8.d-sm-flex.about {
+    flex: 0 0 auto;
+    width: 64%;
+  }
+
+  .col-lg-8.d-flex.summary {
+    height: 60%;
+  }
+
+
+}

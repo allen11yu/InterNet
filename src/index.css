@@ -1,0 +1,650 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Readex Pro', 'Oswald', Arial;
+}
+
+label {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+/*  bar styling for all pages */
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #344966;
+  font-family: 'Readex Pro', 'Oswald', Arial;
+  font-size: 24px;
+  padding: 8px;
+}
+
+nav a {
+  color: #F0F4EF;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+nav a:hover {
+  color: #fefffe;
+}
+
+.menu-left {
+  margin-left: 10px;
+  text-align: right;
+}
+
+.menu-left img {
+  width: 120px;
+}
+
+/* Footer styling for all pages */
+
+footer {
+  background-color: #344966;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+footer p, footer a {
+  font-family: 'Readex Pro', 'Oswald', Arial;
+  font-size: 16px;
+  margin: 0;
+  color: #F0F4EF;
+}
+
+footer a:hover {
+  color: #B4CDED;
+}
+
+footer .icon {
+  width: 40px;
+}
+
+footer .row {
+  justify-content: center;
+}
+
+/* main page styling */
+.main {
+  font-family: 'Readex pro', 'Oswald', Arial;
+  font-size: 16px;
+  flex: 1;
+}
+
+.text-center {
+  margin-bottom: 30px;
+}
+
+.text-center button {
+  background-color: #B4CDED;
+}
+
+.text-center button:hover {
+  background-color: #cde3ff;
+}
+
+/* Interactive page styling */
+div.carousel-indicators {
+  display: none;
+}
+
+.interactive-body {
+  background-color: #B4CDED;
+}
+
+.internship-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 70%;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.internship-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.internship-detail-company {
+  max-width: 450px;
+}
+
+.internship-des {
+  background-color: #B4CDED;
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 60px;
+}
+
+.internship-action {
+  display: flex;
+  justify-content: space-evenly;
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.internship-action div {
+  width: 30%;
+  background-color: #B4CDED;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.internship-action div a {
+  color: black;
+  text-decoration: none;
+}
+
+.internship-company img {
+  margin: auto;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.internship-des h2 {
+  text-align: center;
+  font-family: 'Readex pro', 'Oswald', Arial;
+  font-size: 18px;
+}
+
+
+.ask-update {
+  text-align: center;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+  margin: 30px;
+}
+
+/* Profile styles */
+.profile-body {
+  background-color: #F0F4EF;
+}
+
+.card-body.profile {
+  background-color: #B4CDED;
+  border-radius: 1.5em;
+  margin-bottom: 20px;
+}
+
+.profile-pic {
+  margin: auto;
+  margin-bottom: 10px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.inputFile {
+  width: 1px;
+}
+
+.pencil {
+  font-size: 12px;
+}
+
+.pencil-icon:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.hideForm {
+  display: none;
+  visibility: hidden;
+  height: 10px;
+}
+
+/* Internship cards styling */
+.intern-card {
+  width: 12rem;
+  border: solid;
+  margin-bottom: 10px;
+}
+
+.intern-card-info:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+}
+
+.intern-card-img {
+  max-width: 100%;
+  max-height: 100%;
+  padding: 5px;
+}
+
+.intern-card-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+}
+
+.intern-card-info p {
+  font-size: 12px;
+}
+
+.cards {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heart {
+  font-size: 20px;
+}
+
+/* Intership Detail */
+.hideCards {
+  display: none;
+}
+
+.internship-detail-card h2,h3 {
+  font-family: 'Readex pro', 'Oswald', Arial;
+}
+
+.internship-detail-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90%;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.internship-detail-card button{
+  background-color: #B4CDED;
+  border: #B4CDED solid;
+}
+
+.internship-detail-card button:hover{
+  background-color: #cde3ff;
+  border: #cde3ff solid;
+}
+
+.internship-detail-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  margin-bottom: 30px;
+}
+
+.internship-detail-card {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.internship-detail-company img {
+  margin-bottom: 10px;
+  height: 200px;
+  max-width:450px;
+  border-radius: 1rem;
+}
+
+.detail-back {
+  margin-top: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.detail-back:hover {
+  color: lightgrey;
+}
+
+.heart-detail {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Login page css goes below */
+.login-side img {
+  flex-direction: column;
+  width: 700px;
+}
+
+.login-main {
+  text-align: center;
+  height: 100vh;
+  background-color: #B4CDED;
+}
+
+.login-main .btn-close {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+}
+
+.login-left {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+.login-entry {
+  align-self: left;
+}
+
+.login-left label {
+  margin-top: 2vh;
+}
+
+.login-left a {
+  text-decoration: none;
+  margin-top: 2vh;
+}
+
+.login-main .login-btn {
+  background-color: #344966;
+  border: #344966 solid;
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.login-main .login-btn:hover {
+  background-color: #606e81;
+  border: #606e81 solid;
+}
+
+.login-body {
+  padding: 0;
+  margin: 0;
+}
+
+/* favorites page */
+.fav-empty {
+  font-family: 'Readex pro', 'Oswald', Arial;
+  text-align: center;
+  margin: 50px;
+}
+
+/* index/about page */
+.about p,h2,h4 {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.about h1,h3 {
+  font-family: 'Readex pro', 'Oswald', Arial;
+}
+
+.welcome {
+  padding: 100px;
+  background-color: #F0F4EF;
+  display: flex;
+  align-items: center;
+}
+
+.welcome h2 {
+  font-size: 20px;
+}
+
+.welcome img {
+  width: 600px;
+}
+
+.welcome .btn {
+  background-color: #B4CDED;
+  border: #B4CDED solid;
+}
+
+.welcome .btn {
+  font-family: 'Source Sans Pro', 'Lato', 'Times New Roman';
+}
+
+.welcome .btn:hover {
+  background-color: #cde3ff;
+  border: #cde3ff solid;
+}
+
+.mission {
+  padding: 100px;
+  background-color: #B4CDED;
+  display: flex;
+  align-items: center;
+}
+
+.mission img {
+  width: 500px;
+}
+
+.benefits {
+  padding: 50px;
+  background-color: #F0F4EF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.benefit-cards {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 50px;
+}
+
+.benefit-card {
+  margin: 10px;
+  text-align: center;
+}
+
+.benefits img {
+  width: 150px;
+}
+
+.accolades {
+  padding: 100px;
+  background-color: #BFCC94;
+}
+
+.user-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
+
+.user-card img {
+  width: 250px;
+}
+
+.accolades h2,h3 {
+  font-family: 'Readex pro', 'Oswald', Arial;
+}
+
+/* Media Queries */
+
+@media (max-width: 798px) {
+  .welcome img {
+    width: 300px;
+  }
+
+  .welcome h2 {
+    font-size: 20px;
+  }
+
+  .mission img {
+    width: 250px;
+  }
+
+  .login-side {
+    display: none;
+  }
+  .internship-des p {
+    display: none;
+  }
+
+  .internship-des h2 {
+    margin-top: 100px;
+  }
+
+}
+
+@media (max-width: 598px) {
+  .welcome img {
+    display: none;
+  }
+
+  .welcome h2 {
+    font-size: 16px;
+  }
+
+  .mission img {
+    display: none;
+  }
+
+  .user-card img {
+    display: none;
+  }
+
+  .login-side img {
+    display: none;
+  }
+  .shrinkContent {
+    text-align: center;
+  }
+  div label {
+    display: none;
+    justify-items: center;
+  }
+
+  .col-lg-8.d-sm-flex.about {
+    display: none;
+  }
+
+  .form-control {
+    margin: 2px;
+  }
+
+  .card-title.text-center {
+    font-size: 35px;
+  }
+
+  .card-body.profile.img-layer {
+    background-color: white;
+    border-right: 0;
+  }
+
+  .profile-pic {
+    margin: auto;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  }
+
+ 
+}
+
+@media(min-width: 598px) {
+  .internship-des h2 {
+    font-size: 24px;
+  }
+
+  .internship-des p {
+    font-size: 15px;
+  }
+  .hideLabel {
+    display: none;
+    justify-items: center;
+  }
+
+  .showLabel {
+    display: block;
+  }
+
+  .form-control {
+    margin: 2px;
+  }
+
+  .professional .form-group.row {
+    justify-content: center;
+  }
+
+  .card-body.profile.img-layer {
+    background-color: white;
+    border-right: 0;
+  }
+
+  .profile-pic {
+    margin: auto;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  }
+
+}
+
+@media(min-width: 992px) {
+  .profile label {
+    display: block;
+  }
+
+  .col-lg-8.d-sm-flex.summary, .col-lg-8.d-sm-flex.about {
+    flex: 0 0 auto;
+    width: 64%;
+  }
+
+  .col-lg-8.d-flex.summary {
+    height: 60%;
+  }
+
+  .card-body.profile.img-layer {
+    background-color: #B4CDED;
+    border: none;
+  }
+
+  .card-body.about {
+    max-width: 700px;
+  }
+
+  .profile-pic {
+    margin: auto;
+    margin-bottom: 10px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+  }
+
+  .internship-detail-card {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    flex-wrap: nowrap;
+    margin: auto;
+  }
+
+  .internship-detail {
+    flex-grow: 1;
+  }
+}
+
+@media(max-width: 1200px) {
+  .internship-des p {
+    font-size: 11px;
+  }
+}

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Allen, Alan, Andrew, Sharlene">
+  <meta name="description" content="Internship Finder, profile page">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Profile | Internship Finder</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:wght@100;400;700&family=Oswald:wght@400;600&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- Style Sheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Fav icon -->
+  <link rel="icon" href="img/tempLogo.png">
+</head>
+<body class="profile-body">
+
+  <!-- Nav Bar -->
+  <nav>
+    <div id="menu-left">
+      <a href="index.html">Internship Finder</a>
+    </div>
+
+    <div id="menu-right">
+      <a href="interactive.html">Home</a>
+      <a href="login.html">Login</a>
+      <a href="login.html">Sign Up</a>
+      <a href="profile.html">Profile</a>
+   </div>
+   <div id="hamburger-menu"><a href="#"><span class="fa fa-bars" aria-label="menu"></span></a></div>
+  </nav>
+
+  <main>
+    <div class="container">
+      <!-- Professional Details-->
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="mb-3 card pb-2">
+            <div class="card-body profile">
+              <div class="row">
+                <div class="col-12">
+                  <img src="img/insertprofilepic.jpeg" alt="Profile Picture" id="profile" class="pb-3 rounded img-fluid mx-auto d-block">
+                </div>
+                <div class="col-sm">
+                  <h1 class="card-title text-center">Professional Details</h1>
+                  <form class="professional">
+                    <div class="form-group row">
+                      <label for="name" class="col-4 col-form-label-sm mb-3 ">Name:</label>
+                      <div class="col-sm-8">
+                        <input type="text" class="form-control" id="name" placeholder="Name">
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <label for="university" class="col-4 col-form-label-sm mb-3">University:</label>
+                      <div class="col-sm-8">
+                        <input type="text" class="form-control" id="university" placeholder="University">
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <label for="age" class="col-4 col-form-label-sm mb-3">Age:</label>
+                      <div class="col-sm-8">
+                        <input type="text" class="form-control" id="age" placeholder="Age">
+                      </div>
+                    </div>
+
+                      <div class="form-group row">
+                        <label for="degree" class="col-4 col-form-label-sm mb-3">Degree:</label>
+                        <div class="col-sm-8">
+                          <input type="text" class="form-control" id="degree" placeholder="Degree">
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <!-- About Me -->
+        <div class="col-lg-8 d-sm-flex about">
+          <div class="mb-3 card pb-2">
+            <div class="card-body about profile ">
+              <div class="row">
+                <div class="col-xs">
+                  <h1 class="card-title text-center">About Me</h1>
+                  <form>
+                    <div class="row">
+                      <div class="col-6">
+                        <label for="location" class="col-form-label-sm">Location:</label>
+                        <input type="text" class="form-control" id="location" placeholder="Location">
+                      </div>
+                      <div class="col-6">
+                        <label for="phone" class="col-form-label-sm">Phone:</label>
+                        <input type="text" class="form-control" id=phone placeholder="Phone">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-6">
+                        <label for="email" class="col-form-label-sm">Email:</label>
+                        <input type="email" class="form-control" id=email placeholder="Email">
+                      </div>
+                      <div class="col-6">
+                        <label for="skills" class="col-form-label-sm">Skills:</label>
+                        <input type="text" class="form-control" id=skills placeholder="Skills">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-6">
+                        <label for="experience" class="col-form-label-sm">Experience:</label>
+                        <input type="text" class="form-control" id=experience placeholder="Experience">
+                      </div>
+                      <div class="col-6">
+                        <label for="interest" class="col-form-label-sm">Interest:</label>
+                        <input type="text" class="form-control" id=intesest placeholder="Interest">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-6">
+                        <label for="cover" class="col-form-label-sm">Cover Letter/Portfolio:</label>
+                        <input type="file" class="form-control" id=cover placeholder="Cover Letter">
+                      </div>
+                      <div class="col-6">
+                        <label for="resume" class="col-form-label-sm">Resume:</label>
+                        <input type="file" class="form-control" id=resume placeholder="Resume">
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <!-- Social Media-->
+        <div class="col-lg-4">
+          <div class="mb-3 card pb-2">
+            <div class="card-body profile">
+              <div class="row pt-2">
+                <div class="col-xs">
+                  <h1 class="card-title mb-5 text-center">Social Media</h1>
+                  <div class="hold-buttons text-center">
+                    <a href="https://www.facebook.com/" id="share-fb" aria-label="Facebook Account" class="sharer button"><span class="fa fa-3x fa-facebook-square"></span></a>
+                    <a href="https://twitter.com/?lang=en" id="share-tw" aria-label="Twitter Account" class="sharer button"><span class="fa fa-3x fa-twitter-square"></span></a>
+                    <a href="https://www.linkedin.com/" id="share-li" aria-label="LinkedIn Account" class="sharer button"><span class="fa fa-3x fa-linkedin-square"></span></a>
+                    <a href="https://myaccount.google.com/intro/profile" id="share-gp" aria-label="Google Account" class="sharer button"><span class="fa fa-3x fa-google-plus-square"></span></a>
+                    <a href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin" id="share-em" aria-label="Gmail Account" class="sharer button"><span class="fa fa-3x fa-envelope-square"></span></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Summary -->
+        <div class="col-lg-8 d-sm-flex summary">
+          <div class="mb-4 card pb-2">
+            <div class="card-body profile">
+              <div class="row">
+                <div class="col-xs">
+                  <h1 class="card-title text-center">Summary</h1>
+                  <p class="card-text">
+                    Software Developer with three years of experience in coding, testing and
+                    establishing system improvements.
+
+                  </p>
+                  <button class="btn-sm btn-dark">More Details</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>
+      Have any questions? Contact us at:
+      <a href="#"><span class="fa fa-facebook-square"></span></a>
+      <a href="#"><span class="fa fa-twitter-square"></span></a>
+      <a href="#"><span class="fa fa-instagram"></span></a>
+      <a href="#"><span class="fa fa-envelope"></span></a>
+    </p>
+    <p>&copy;Internship Finder 2021</p>
+  </footer>
+
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>

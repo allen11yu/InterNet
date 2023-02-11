@@ -1,0 +1,327 @@
+[
+  {
+     "company":"Lyft",
+     "description":"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.",
+     "role":"Software Engineer Intern",
+     "location":"San Francisco, CA",
+     "time":"Summer 2022",
+     "responsibilities":"Own your project, while checking in with other team members throughout the day with questions and updates; You leave the code in a better state than when you found it (progressive refactor); You value reliability, ensured by testing (unit, integration and load tests); Participate in code reviews to ensure code quality and distribute knowledge; Continuous integration and deployment",
+     "qualifications":"Currently pursuing a degree in Computer Science or a related field, with at least one additional term of school to complete after the end of this internship; Strong knowledge of CS fundamentals; Strong knowledge of Kotlin and Java; Excellent communication skills; Passion for community, sustainability, and/or transportation; Ability to thrive in a startup environment; Experience with real-time technology problems; Contributions to open source projects; Experience working with databases; Experience solving real-time technology problems; Experience with mobile development; Previous work with social networks",
+     "img":"./img/lyft-logo.png",
+     "link":"https://boards.greenhouse.io/lyft/jobs/5446225002?gh_jid=5446225002&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+     "liked": false
+  },
+
+  {
+     "company":"Reddit",
+     "description":"Reddit is a network of more than 100,000 communities where people can dive into anything through experiences built around their interests, hobbies and passions. Reddit users submit, vote and comment on content, stories and discussions about the topics they care about the most. From pets to parenting, there’s a community for everybody on Reddit and with more than 50 million daily active people, it is home to the most open and authentic conversations on the internet.",
+     "role":"Data Science Intern",
+     "location":"Remote - US",
+     "time":"Spring 2022",
+     "responsibilities":"Work on projects that impact the business; Be mentored by experienced Data Scientists from all backgrounds; Contribute to the betterment of Reddit; Continue making Reddit history as a part of our next intern class",
+     "qualifications":"Actively working towards a Bachelor’s, Master’s, or PhD degree in Computer Science, Data Science, Mathematics, Statistics, Physics, or related fields; Graduating between Fall 2022 and Summer 2023; Exposure to SQL programming language; Curious or driven by data analysis (strong analytical skills); You’re over the age of 18 and authorized to work in the United States",
+     "img":"./img/reddit-logo.png",
+     "link":"https://boards.greenhouse.io/reddit/jobs/3596033",
+     "liked": false
+  },
+
+  {
+    "company":"PlayStation",
+    "description":"PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.",
+    "role":"Front End Software Engineer Intern",
+    "location":"San Francisco, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Collaborate with team members to improve and extend PS5 user interfaces; Peer review code; Investigate the source of defects; Design engineering solutions to solve user experience problems; Estimate the scope of work to deliver a solution",
+    "qualifications":"Current or post-graduate (up to 1 year) student majoring in Computer Science or related field; Experience working on a team project; User Interface / Web / Mobile App project work or experience; Strong communication skills and the ability to communicate clearly and succinctly; Familiarity with basic Computer Science concepts (types, Big O notation, functions, closures); Desire to build, collaborate and develop strong and positive team relationships; Attention to detail, organization skills, and strong work ethic",
+    "img":"./img/playstation-logo.png",
+    "link":"https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3499589",
+    "liked": false
+  },
+
+  {
+    "company":"PayPal",
+    "description":"At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We’re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We’re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.",
+    "role":"Product Manager Intern",
+    "location":"Austin, TX",
+    "time":"Summer 2022",
+    "responsibilities":"Think strategically and creatively to gather product and customer insights and help define the Product Vision and Strategy; Understand PayPal’s strategic and competitive position and deliver products that are recognized as best in class; Analyze current customer experiences to define friction points and create seamless and effortless experiences; Develop product roadmaps and work with cross-functional teams (business, program managers, product, development, UX, analytics); Define detailed product requirements, scope, ship, measure features and use rapid cycles to iterate and learn; Drive product development by building end to end solutions with a team of world-class engineers and designers; Build trust and effective relationships with peers/cross-functional teams",
+    "qualifications":"Strong analytical and data visualization skills; Knowledge of data analytics and statistics (using SQL, R, Hive, etc.); Ability to juggle multiple priorities and thrive in fast-paced environments; Strong problem-solving abilities - you can cut through the noise and laser focus on what really matters; Experience working with internet technologies or the payments industry is desirable; Experience with qualitative and quantitative methodologies to understand customers and an ability to explore and structure customers’ insights; Strong ability to translate product needs to technology and to understand technology; Ability to write scripts or snippets of code preferred; Excellent verbal and written communication skills; Team player with ability to interface and build relations at all levels",
+    "img":"./img/paypal-logo.png",
+    "link":"https://jobsearch.paypal-corp.com/en-US/job/product-manager-intern/J3W1BN7193XLTDJQVHH",
+    "liked": false
+  },
+
+  {
+    "company":"Duolingo",
+    "description":"Our mission at Duolingo is to develop the best education in the world and make it universally available. But we’ve got more left to do — and that’s where you come in! Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we have also entered into literacy with Duolingo ABC and English proficiency testing with the Duolingo English Test. We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more! As a Design Intern, you’ll be embedded into one of our product areas where you’ll contribute to innovative projects that affect our millions of users, while developing your career through hands-on learning and mentorship. We’ll provide you with support and guidance to advance your personal, professional, and technical skills as you make a real impact on one of the Duolingo products.",
+    "role":"Product Designer Intern",
+    "location":"Pittsburgh, PA",
+    "time":"Summer 2022",
+    "responsibilities":"Contribute to challenging design projects with guidance tailored to your personal growth; Learn, understand, and apply Duolingo’s design language as well as industry standards to concepts, wireframes, and prototypes.; Work closely with other designers to utilize our design system and ensure design consistency across our products; Collaborate with product, engineering, content strategy, and studio partners to explore simple solutions to scoped problems",
+    "qualifications":"A bachelor's degree by spring 2023; An online portfolio with mobile app or web design samples; Talent for designing user-centered products that look great too; A desire to constantly advance your work and attend to all the details; Ability to relocate to and work in Pittsburgh, PA",
+    "img":"./img/duolingo-logo.png",
+    "link":"https://boards.greenhouse.io/duolingo/jobs/5473179002",
+    "liked": false
+  },
+
+  {
+    "company":"Quora",
+    "description":"The vast majority of human knowledge is still not on the internet. Most of it is trapped in the form of experience in people's heads, or buried in books and papers that only experts can access. More than a billion people use the internet, yet only a tiny fraction contribute their knowledge to it. We want to democratize access to knowledge of all kinds — from politics to painting, cooking to coding, etymology to experiences — so if someone out there knows something, anyone else can learn it. Our mission is to share and grow the world's knowledge, and we're building a world-class team to help us achieve this mission.",
+    "role":"Software Engineer Intern",
+    "location":"Remote",
+    "time":"Summer 2022",
+    "responsibilities":"Product Systems: architect and scale user-facing product features to drive engagement and help the product grow. Platform: create the tools, abstractions, frameworks, and systems to make developers at Quora more productive across all platforms — from product developers to ML engineers. Infrastructure: design and build fast, cost-efficient, self-healing and scalable architectures to serve our ever-growing global traffic and storage needs. Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.",
+    "qualifications":"Pursuing a B.S., M.S., or Ph.D. in Computer Science, Engineering or a related technical field; Knowledge of Python, Javascript, or C++, or the ability to learn them quickly; A passion for learning and always improving yourself and the team around you; Love of the Quora product",
+    "img":"./img/quora-logo.png",
+    "link":"https://boards.greenhouse.io/quora/jobs/5618133002",
+    "liked": false
+  },
+
+  {
+    "company":"TikTok",
+    "description":"TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo. Internships at TikTok aim to provide students the chance to work with our clients and teams to address key business problems and identify areas of growth for the company. With your education and experience, you will be able to take on real-world challenges from day one.",
+    "role":"Frontend Engineer Intern",
+    "location":"Seattle, WA",
+    "time":"Summer 2022",
+    "responsibilities":"Build new features that touch hundreds of millions of people around the world; Solve unique, large-scale, highly complex technical problems; Build the next-generation monetization platform to help millions of customers grow their businesses; Work with your mentor to deliver product features and make engineering improvements; Build world-class web applications that combine usability, accessibility, elegance, performance, and maintainability.",
+    "qualifications":"Currently pursuing a Bachelor's or Master's degree in Computer Science or a related field; Able to commit to working for 12 weeks during Summer 2022; Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language; Experience with data structures, algorithms, and software design; Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment; Intent to return to degree-program after the completion of the internship; Understanding of back-end technologies and databases; Understanding of commonly used frontend framework (React, Vue, or Angular); Understanding of back-end technologies and databases; Proficiency in Javascript, Typescript, or CSS",
+    "img":"./img/tiktok-logo.png",
+    "link":"https://careers.tiktok.com/position/7002743111147555109/detail",
+    "liked": false
+  },
+
+  {
+    "company":"IBM",
+    "description":"As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.",
+    "role":"Data Science Intern",
+    "location":"Multiple locations in the USA",
+    "time":"Summer 2022",
+    "responsibilities":"You will implement and validate predictive models as well as create and maintain statistical models with a focus on big data; You will be exposed to and incorporate a variety of statistical and machine learning techniques such as logistic regression, experimental design, generalized linear models, mixed modeling, CHAID/decision trees, neural networks and ensemble models; You will communicate with internal and external clients to understand business needs and provide analytical solutions; You will use leading edge tools such as COGNOS, Watson Studio and Watson Machine Learning; You’ll work in an agile, collaborative environment, partnering with other scientists, engineers, and database administrators of all backgrounds and disciplines to bring analytical rigor and statistical methods to the challenges of predicting behaviors.",
+    "qualifications":"You are great at solving problems, debugging, troubleshooting, and designing & implementing solutions to complex technical issues; You thrive on teamwork and have excellent verbal and written communication skills; You have strong technical and analytical abilities, a knack for driving impact and growth, and some experience with programming/scripting in a language such as Java or Python; You have an interest in, understanding of, or experience with Design Thinking and Agile Development methodologies.",
+    "img":"./img/ibm-logo.png",
+    "link":"https://careers.ibm.com/job/13522697/data-scientist-intern-summer-2022-remote/?codes=IBM_CareerWebSite",
+    "liked": false
+  },
+
+  {
+    "company":"Amazon",
+    "description":"Design at Amazon has been growing steadily in reach and impact—from devices to fashion, delivery logistics to search and streaming video, from voice and sound to physical retail, and more—all while creating and cultivating experiences that touch Amazon customers everywhere, every day. Amazon design teams include every flavor of UI, UX, visual, motion, illustration, brand, and marketing design roles—as well as design technologists, researchers, writers, and more. Check out Amazon.design, and come build the future with us. As a UX Design Intern, you will collaborate with a team that defines and designs user interfaces, systems, and interaction, visual, motion, and voice design patterns.",
+    "role":"User Experience (UX) Designer Intern",
+    "location":"Seattle, WA",
+    "time":"Summer 2022",
+    "responsibilities":"Design thoughtful, beautiful, and useful software user interfaces and experiences in a team environment; Create user-centered designs by considering market analysis, customer feedback, site metrics, and usability findings; Use business requirements, user and market research to assist in developing scenarios, use cases, and high-level requirements; Develop conceptual diagrams, wireframes, visual mockups, click-throughs, and prototypes; Work with stakeholders to plan projects for effective delivery while maintaining high standards for design; Be a passionate and effective advocate for design with non-design audiences.",
+    "qualifications":"Currently working towards a Bachelor’s or Master's Degree in Design, Human-Centered Interaction, Statistics, Psychology, Computer Science, or other equivalent discipline, with an expected conferral date between September 2022 – August 2024; Previous design internship(s) and/or project experience in design; Experience working in a collaborative team environment to deliver high-quality design solutions; Experience in a variety of design, wire-framing, and prototyping tools; Creative materials demonstrating past work experience and deliverables (e.g., study plans, reports, portfolio); Experience with consumer brand experience design and a understanding of storytelling; Visual design expertise demonstrated through mockups and style guides; Additional design skills in related fields, including film-making, motion design, and prototyping; Experience in designing interactions for voice led devices; Experience in designing cross platform experiences",
+    "img":"./img/amazon-logo.png",
+    "link":"https://www.amazon.jobs/en/jobs/1629157/user-experience-ux-designer-intern-summer-2022",
+    "liked": false
+  },
+
+  {
+    "company":"Workday",
+    "description":"At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work.",
+    "role":"Machine Learning Engineer Intern",
+    "location":"Pleasanton, CA and Boulder, CO",
+    "time":"Summer 2022",
+    "responsibilities":"As an Intern, you will know what is means to be a Machine Learning Engineer at Workday and actively be contributing to building industry-defining intelligent products. Alongside an A team of professionals in machine learning, engineering, product, and data science, you will realize that the sky is the limit to your growth–all while having fun! Are you incredibly motivated by participating in bringing machine learning products to life in production settings which impact thousands of people? Workday's Machine Learning organization is bringing 'AI, first' products to life at every step of the Workday product offering. We're looking for highly creative, entrepreneurial, and deeply skilled machine learning engineers/scientists to help on a range of these challenges. Knowledge of machine learning techniques applied to natural language processing, information retrieval, and various other techniques, along with knowledge in supervised and unsupervised learning.",
+    "qualifications":"Currently enrolled in a Bachelor, Master’s or PhD program; Available for a 12-week full-time internship program summer of 2022; Anticipated graduation date no earlier than December 2022; You will return to University after the conclusion of the internship; Currently pursuing a Major in Computer Science, Data Science, Mathematics, or any engineering program; Internship, coursework, or relevant project experience; Background in Machine Learning methods; Programming experience in at least one of the following languages: Python, Scala, Java, C++; Knowledgeable in areas such as math, science, natural language processing, graphs, transformers, supervised and unsupervised learning; Practical knowledge in at least one machine learning framework (e.g., XGBoost, TensorFlow, Pytorch)",
+    "img":"./img/workday-logo.png",
+    "link":"https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Machine-Learning-Engineer-Intern_JR-57661",
+    "liked": false
+  },
+
+  {
+    "company":"Workday",
+    "description":"At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work.",
+    "role":"Product Designer Intern",
+    "location":"Pleasanton, CA and Atlanta, GA",
+    "time":"Summer 2022",
+    "responsibilities":"As a Product Designer Intern you are organized, care about the details, and have a strong intellectual curiosity to learn about how our users interact with our products. You understand that achieving phenomenal design is a team effort and requires collaboration with cross functional partners. We are looking for an individual who can clearly communicate verbally and through written form to tell stories using personas and scenarios. The ability to develop positive relationships with UX peers, Product Managers, and Engineers, and most importantly, bringing your whole self to work and finding ways to have fun!",
+    "qualifications":"Currently pursuing a major in Design, Computer Science, Information Systems, Psychology, Business or any Design program; A portfolio of design work or class projects demonstrating your design process; Basic knowledge of creating user flows, wireframes, and prototypes to communicate your design concepts; Ability to explore several design solutions, prototype and iterate based on peer feedback, customer research, and experimentation; Seek challenges and responsibilities while modeling a positive outlook even in challenging situations; Familiarity with modern design and prototyping software and tools (like Figma); Have an understanding of design system patterns, design principles is a plus",
+    "img":"./img/workday-logo.png",
+    "link":"https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers/job/Product-Designer-Intern_JR-58674",
+    "liked": false
+  },
+
+  {
+    "company":"Pinterest",
+    "description":"Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.",
+    "role":"Software Engineering Intern",
+    "location":"Seattle, WA | San Francisco, CA | Palo Alto, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Take ownership over the completion and quality of your tasks and project while incorporating guidance from your mentor, manager, and peers; Execute scoped technical tasks end-to-end to help build the future of Pinterest; Deliver code that is well-documented, tested, and operable; Communicate new ideas and opinions with candor as you grow both professionally and personally through learning and development opportunities",
+    "qualifications":"Pursuing a CS degree (or related field); 2+ years of CS classes under your belt (Intro to CS and Algorithms, Advanced Algorithms, Operating Systems and Data Structures are all great!); Aptitude for JavaScript, CSS, C++, HTML, Python, Java, Go–we use a variety of programming languages and tools; Non-academic coding experience (i.e. hack-a-thons, code challenges, personal projects, GitHub, Open Source, volunteer coding experience, conference participation, etc.); A curious nature with a desire to tackle and solve complex problems",
+    "img":"./img/pinterest-logo.png",
+    "link":"https://www.pinterestcareers.com/job/13690769/software-engineering-intern-usa-seattle-wa/",
+    "liked": false
+  },
+
+  {
+    "company":"Apple",
+    "description":"Apple is seeking highly qualified people for the position of AI/ML Engineer and AI/ML Researcher. The team pursues research & development in the areas of machine learning (ML) with particular focus on deep learning (DL), computer vision (CV), Natural Language Processing (NLP), optimization, and reinforcement learning (RL). As a member of the team, ​you will work on some of the most ambitious technical problems, develop new ML solutions that will impact future Apple products, and collaborate with the best product teams to integrate your ideas into products. In addition, you will engage with the academic community by publishing your innovative research, and speaking at conferences and events.",
+    "role":"Machine Learning/AI Intern",
+    "location":"Cupertino, CA",
+    "time":"Summer 2022",
+    "responsibilities":"You will research and develop innovative ML strategies for challenging problems that will affect future Apple products. You will collaborate with broader teams across Apple to transfer AI/ML solutions. You will have opportunities to provide technical mentorship and guidance and prepare technical reports for publication and conference talks. You are self-motivated, excellent problem solver, a go-getter. You are quick to build relationships and work well with change and ambiguity. You have strong programming skills with tried experience crafting, prototyping, and delivering advanced algorithmic solutions.",
+    "qualifications":"In-depth expertise in deep learning (DL) and statistical machine learning (ML); Expertise in one or more of CV, NLP, optimization, RL, time series, generative models, signals, pattern recognition fields, and/or computer graphics fields; Strong publication record demonstrating innovative research; Good presentation skills; Passionate about building extraordinary products; Excellent programming skills in Java, Python, C/C++, CUDA or other GPGPU is a plus; Knowledge of common ML frameworks; Expected to perform well in a fast-paced environment, to execute on the tasks assigned, to meet the production deadlines and, at the same time, to explore independently new innovative ideas that can improve and transform the product experience of Apple customers; Be able to deliver ML technologies aligned with the core values of Apple, ensuring the highest standards of quality, scientific rigor, innovation, and respect for user privacy; Creative, collaborative, & product focused",
+    "img":"./img/apple-logo.png",
+    "link":"https://jobs.apple.com/en-us/details/200253211/machine-learning-ai-internship?team=STDNT",
+    "liked": false
+  },
+
+  {
+    "company":"Tableau",
+    "description":"Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.",
+    "role":"Software Engineer Intern",
+    "location":"Seattle, WA | Austin, TX | Palo Alto, CA | San Francisco, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Work under the direction of software architects and senior developers on a project that you will get to present to other interns and Salesforce Developers; Work with your team members on timely and relevant projects that may be included in a future software release; Contribute to our suite of automated tests and testing infrastructure",
+    "qualifications":"Enrolled and working towards obtaining a BS or MS in Computer Science or related field. Please note that in order to be eligible for an internship, we require that you be returning to school the following quarter/semester to work towards completing your degree; Must be attending a University in North America; Academic or professional/internship experience working in a professional coding setting is a plus; Understanding of object-oriented programming/design; Strong understanding of CS fundamentals and how to apply them to code; Understanding of algorithms and data structures and how to efficiently implement them into a solution; Ability to produce clear, efficient and concise code",
+    "img":"./img/tableau-logo.png",
+    "link":"https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736",
+    "liked": false
+  },
+
+  {
+    "company":"Twitch",
+    "description":"Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to excellent esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate and grow their personal interests and passions. We're always live at Twitch. Stay up to date on all things Twitch on LinkedIn, Twitter and on our Blog.",
+    "role":"Engineering Intern",
+    "location":"San Francisco, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Contribute to product design and implementation discussions; Find and build unique solutions to implement projects from the idea phase to production; Test and iterate code before and after production release; Connect with intern peers, new teammates, and colleagues from across the business",
+    "qualifications":"Eagerness to investigate challenges and present reasonable solutions reliably and quickly; Excitement to pick up a new language and be productive with it in a week; Desire to work collaboratively in a team environment; BA/BS Graduation Year: 2023 OR 2024 (No Masters/PhD)",
+    "img":"./img/twitch-logo.png",
+    "link":"https://boards.greenhouse.io/twitch/jobs/5471047002#application",
+    "liked": false
+  },
+
+  {
+    "company":"Roku",
+    "description":"Roku is the #1 TV streaming platform in the U.S., and we’ve set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers. Our talented and diverse UX team delights users one design at a time, while building and enhancing a UX culture within Roku that nurtures our ongoing enrichment and elevates the UX maturity across the company and the industry.",
+    "role":"UX Product Designer Intern",
+    "location":"San Jose, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Work in Figma to create OS components for use by the UX Design Team; Create a catalog of UI screens that mirror the Roku OS user experience; Work closely with the UX Design Team to ensure best Design System practices; Onboard new UX Team members to Figma workflow and the Design System; Work with the Design Systems team on at least one Roku OS product feature; Learn a lot about what it means to work on a hardware platform; Work closely with Product Managers to identify the problems and business goals that your designs will address; Utilize user journeys to help guide and frame your design approaches; Partner with strong User Researchers to determine and execute the ideal research methodology to evaluate your designs; Own your designs and communicate effectively, articulating your design decisions to colleagues from diverse disciplines; Give and receive feedback in regular design critiques with your peers",
+    "qualifications":"Hands on experience working with Figma; Familiarity with Design Systems; Meticulous attention to detail; Hands-on experience working with User Researchers (or conducting User Research yourself) and utilizing the results of that research to shape your designs; Endless empathy for the user",
+    "img":"./img/roku-logo.png",
+    "link":"https://www.roku.com/jobs/position/3606088/ux-product-designer-intern?gh_jid=3606088",
+    "liked": false
+  },
+
+  {
+    "company":"eBay",
+    "description":"The Technical Product Manager Intern will be the driving force behind execution to optimize the way we build and deliver end-to-end technology solutions that delight our fans, at global scale. Members of the Technical Product Management team will understand customer requirements and then be responsible for driving the delivery of the company's product road maps and features. In this role you will lead and influence a global team that ensures Product & Technology teams work directly with Business, Marketing, Customer Service teams to understand the needs and aspirations of our buyers, sellers and third party developers. The team will drive all aspects of the concept to customers for different initiatives on the road map for customer facing applications, platform services, tools, APIs, capabilities, documentation, and customer/developer support. TPMs will work with cross functional teams, product management, and business teams across the company globally for timely and effective execution of key initiatives for the org.",
+    "role":"Technical Product Manager Intern",
+    "location":"San Jose, CA | San Francisco, CA | Bellevue, WA | Austin, TX",
+    "time":"Summer 2022",
+    "responsibilities":"Product manage cross-team, cross-functional initiatives; Work with Engineers, Researchers, UX Designers, Product Marketers, Finance and various other stakeholders to drive technical solutions, understand technical trade-offs and architecture to optimally influence product design, estimate work efforts, define milestones and manage resources in an effort to  ideate and build Technical products. Develop, maintain and execute against a Product roadmap; Drive architecture and integration decisions and timelines with dependency teams; Track progress, resolve dependencies, evaluate risks and communicate status to management and project stakeholders; Engage and energize the project teams to achieve aggressive goals; Proactively identify and resolve strategic issues that may impair the team’s ability to meet strategic, financial, and technical goals.",
+    "qualifications":"Currently enrolled as a student, 0-3 years of relevant work experience in an accredited Bachelors or Masters program within the United States graduating after December 2022+ or enrolled as a MBA student, 3-5 years of relevant work experience in an accredited MBA program within the United States graduating after December 2022; Pursuing a degree in Engineering, Computer Science or Product Management is a plus; Technical confidence. The ability to work with Technical teams to balance product velocity and technical debt tradeoff; A Deep customer empathy and curiosity mindset that's paired with knowledge of how to capture and synthesize customer needs and support company objectives; Strong analytical and data visualization skills. Experience with A/B , MultiVariate or other forms of testing is a plus; Great business acumen and communication skills; Experience and knowledge of Agile methodology is a plus ",
+    "img":"./img/ebay-logo.png",
+    "link":"https://ripplematch.com/job/ebay/fe044c10/?tl=331019b4",
+    "liked": false
+  },
+
+  {
+    "company":"Electronic Arts",
+    "description":"You are part of EA’s Mobile organization, helping to develop the next generation of hit mobile games. You will help us oversee product research, analysis, and feature development to ensure our games surprise and delight players worldwide, while also supporting the strategy and goals of the broader EA Mobile team. You will work with a variety of partners to help the team design products, and coordinate with your Principal Product Manager to align your enhancements to the broader EA Mobile strategy. You’re here to build a hit mobile product for EA, so you will need to research and understand what experiences players are looking for. You’ll help guide us by gathering insights, designing creative solutions, and contributing to the product roadmap. You will analyze information from within EA, research competitor products, conduct detailed analyses and present recommendations to key stakeholders within the studio to help improve the roadmap for Battlefield Mobile and positively impact product success.",
+    "role":"Product Manager Intern",
+    "location":"Pasadena, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Research trends in competitor games, ask though-provoking questions, and identify opportunities to level up our own product; Conduct in-depth data analyses to inform product direction and better understand how players interact with our game; Collaborate with key stakeholders to understand product/feature requirements and draw on best practices from across the Mobile organization to deliver detailed technical product requirements and specifications; Deliver detailed and data-driven recommendations to studio partners to influence product roadmap",
+    "qualifications":"Must be available for a full-time paid internship in the summer of 2022 (May - September depending on start date). We are only considering students who will be enrolled in an accredited degree program in the summer of 2022, slated to graduate no earlier than December 2022 through June 2023; Applicants must be legally authorized to work in the US on a full time basis during the 12-week internship. Visa sponsorship is not available for this position; This position is open to graduate level applicants only (MBA preferred); 1+ years of experience with Product Management or similar experience; Mastery of productivity software such as Outlook, Excel, Google Docs, etc; Strong data analysis skills, experience with A/B and multivariate testing preferred (SQL experience a plus); Strong organizational skills & attention to detail; Excellent verbal and written communication skills; Familiarity with project management software (JIRA, Confluence, etc.) a plus; Familiarity with Shooter and Battle Royale genres on mobile a plus",
+    "img":"./img/ea-logo.png",
+    "link":"https://ea.gr8people.com/jobs/169967/product-manager-intern-summer-2022",
+    "liked": false
+  },
+
+  {
+    "company":"Walt Disney Studios",
+    "description":"Be a part of an innovative team and culture… For over 95 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built. Today it brings quality movies and episodic storytelling from its iconic studios like Marvel, Twenty Century Studios, Motion Picture Production, Lucas Film, Blue Sky Studios, Pixar, and The Walt Disney Animation Studios.",
+    "role":"Data Engineering Intern",
+    "location":"Glendale, CA",
+    "time":"Summer 2022",
+    "responsibilities":"Learn from and work with other members of the team in developing data-lake, data-warehouse, and data-marts data models; Performing data collection, data cleansing and validation, and reporting/analysis tasks; Work with data analysts, engineers, and product managers to understand and deliver product requirements; Collaborate and learn from other software engineers and cross-functional teams within an agile team; Build and expand upon existing knowledge of languages, tools, devices, applications, and the environments; Supporting the analysis and validation of forecasting, predictive, and optimization models",
+    "qualifications":"Experience in Python, Scala, Java; Experience with Looker, Tableau; Strong SQL skills; Knowledge in REST APIs; Strong understanding of fundamental work on various defect fixes/enhancements to improve overall productivity; Ability to convert customer needs into a completed solution, managing several projects simultaneously with strong organizational skills, partnering skills, and attention to detail; Aptitude and willingness to learn new software and analytics applications",
+    "img":"./img/disney-logo.png",
+    "link":"https://jobs.disneycareers.com/job/glendale/data-engineering-intern-walt-disney-studios-summer-2022/391/19841251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "liked": false
+  },
+
+  {
+    "company":"Amazon",
+    "description":"Do you enjoy designing and crafting gameplay experiences that appeal to and delight customers? Are you interested in delivering high quality gameplay experiences in a large-scale environment? If this describes you, consider joining us as an intern in the summer of 2022. Amazon Games Studios is looking for a game designer intern to join in the purpose of sharing great gaming experiences with customers around the world. Amazon interns have the opportunity to work alongside the industry’s gaming leaders, artists, animators, and designers who innovate every day on behalf of our customers. You will be matched to a manager and a mentor. You will have the opportunity to impact the evolution of Amazon games as well as lead mission-critical projects early in your career. Your work will contribute to solving some of the most complex technical challenges in the company.",
+    "role":"Game Design Intern",
+    "location":"Seattle, WA",
+    "time":"Summer 2022",
+    "responsibilities":"Design, craft, and implement gameplay experiences such as new weapons, AI characters for combat, and other gameplay features; Execute and assess your work to the game design standard set by your team; Iterate design work based on feedback; Learn to write design documents in alignment with team standards",
+    "qualifications":"Currently working towards a Bachelor’s in Game Design, Human-Centered Interaction, Animation, Computer Science, or other equivalent discipline, with an expected conferral date between September 2022 – August 2024; Creative materials demonstrating past work experience and deliverables in game design; Knowledge of fundamental aspects of game design, including how to influence and execute game design, and balance or iterate upon a feature",
+    "img":"./img/amazon-logo.png",
+    "link":"https://www.amazon.jobs/en/jobs/1839463/game-designer-internship-summer-2022-us",
+    "liked": false
+  }, 
+
+  {
+    "company":"Tesla",
+    "description":"Tesla is looking for a UX/UI Design intern to help define how internal users will interact with our homegrown ERP systems. The applicant must have an affinity for minimal design, typography, and attention to the smallest of details. A strong ability to distill complex problems into simple, elegant solutions is key to success at Tesla. We are a fast-paced company with an entrepreneurial spirit, so the majority of the work will be focused on innovating original and creative content and application, as well as final deliverables and solutions that work in the real world.",
+    "role":"UX/UI Design – Application Engineering Intern",
+    "location":"Fremont, CA",
+    "time":"Summer 2022",
+    "responsibilities":"UX/UI design for enterprise HR software; Focus on user centric design platforms; Leverage user flows and visual designs such as UI elements; Work with other designers and software engineers to provide designs that showcase a strong message to the consumer through simple and effective messaging; Communicate effectively with your team to ensure all design efforts are widely influenced in order to drive business outcomes",
+    "qualifications":"Currently pursuing a BS, MS, or other graduate degree in Graphic Design, UI/UX Design, Psychology, Information Technology, Human Computer Interaction; A portfolio showcasing UI and visual design work with a strong graphic design sensibility; Ability to communicate design concept ideas through sketches, prototypes and wireframes; Must be proficient and highly skilled in Photoshop, Invision, Design Studio, Sketch or other design tools; Proficiency with Jira, SQL or other tools is a plus; Self-motivated, able to work independently but also collaborative and driven by group critique; Professional and positive communication skills; Previous internship and/or project experience is a plus; This role is based out of Fremont, CA so must be open to relocation",
+    "img":"./img/tesla-logo.png",
+    "link":"https://www.tesla.com/careers/search/job/ux-ui-design-application-engineering-internship-summer-2022-111039",
+    "liked": false
+  },
+
+  {
+    "company":"Amazon",
+    "description":"Do you enjoy solving complex problems and troubleshooting products? Are you passionate about developing software development test strategies, finding, and tracking bugs to resolution, and innovating on behalf of customers? Do you want to be a part of a fast-paced, ambiguous environment and contribute to one of the most visited sites on the Internet? If this describes you, consider joining us as an intern in the summer of 2022. Amazon is looking for a quality assurance engineer intern to join one of our many lines of business. Amazon interns have the opportunity to work alongside the industry’s brightest engineers who innovate everyday on behalf of our customers. You will be matched to a manager and a mentor. You will have the opportunity to impact the evolution of Amazon technology as well as lead mission-critical projects early in your career. Your work will contribute to solving some of the most complex technical challenges in the company.",
+    "role":"Quality Assurance Engineer Intern",
+    "location":"Seattle, WA",
+    "time":"Summer 2022",
+    "responsibilities":"Use technical knowledge to create, execute, and maintain software test plans and automation involving one or more product components and/or features; Create and maintain automation scripts, make configuration changes, and modify/extend test cases to accommodate feature releases; Develop test solutions, scripts, and simple tools to reduce manual effort, audit component, or improve feature quality; Troubleshoot automation failures and isolate bugs to help developers research the root cause of defects; Analyze change requests and provide recommendations on how change might impact test scope and/or product behavior",
+    "qualifications":"Currently working towards a Bachelor’s Degree in computer science, computer engineering, or other equivalent technical discipline with an expected conferral date between September 2022 – August 2024; Knowledge of one or more scripting languages (e.g., Python, Ruby, Perl); Knowledge of software-testing techniques (e.g., equivalence class partitioning), and software testing life cycle; Experience with technologies (e.g., Selenium, Junit, TestNG, and other open source tools)",
+    "img":"./img/amazon-logo.png",
+    "link":"https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us",
+    "liked": false
+  },
+
+  {
+    "company":"Slack",
+    "description":"Slack is looking for interns to work alongside our engineers for the summer of 2022. These full time internships are a unique opportunity for someone currently pursuing a BS, MS, or PhD in Computer Science, Engineering, or equivalent training who wishes to gain hands-on experience in an industry setting. You will have the opportunity to work on a collaborative team and be paired with one of our engineering managers as well as a technical mentor throughout the course of the program.",
+    "role":"Software Engineering Intern",
+    "location":"San Francisco, CA",
+    "time":"Summer 2022",
+    "responsibilities":"BACKEND: Our team works to create delightful features, while designing and implementing useful API methods to improve the reliability of our systems. We build our app using reliable tools that our team knows and trusts, including Hack/PHP, MySQL, and Linux. Expertise in these areas is a huge plus, but having a familiarity with other common web languages (such as Python or Ruby) and other relational databases are fine substitutes. CLIENT ENGINEERING (WEB FRONTEND, ANDROID, AND IOS): You will use React / Javascript / CSS (Web Frontend), Java / Kotlin (Android), or Objective-C / Swift (iOS) to improve the Slack clients, complex in-browser and native applications relied upon by millions of users every day. You will work with real-time data streams, engineer for performance across browsers, and delight people by making the best software we can imagine. You will work closely with Product, Design, Backend, and QA to build, test and deploy new features.",
+    "qualifications":"A strong work ethic, and an eagerness to jump in and help fix things; Curiosity about how things work and tenacity to learn; Self-awareness and a desire to improve your skills; Strong communication skills, a positive attitude, and empathy",
+    "img":"./img/slack-logo.png",
+    "link":"https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Software-Engineering-Intern---Slack_JRS00962-2",
+    "liked": false
+  }, 
+
+  {
+    "company":"Expedia",
+    "description":"Do you want to power the future of travel? Are you ready to fuel industry change and jumpstart your career in Data Science, Analytics at a leading travel technology company? As an Intern at Expedia Group, you’ll work on meaningful projects that innovate travel, and be a part of an encouraging culture of inclusivity and impact. We pave the route for our early careers talent to go far and fast with accelerated career development. By joining the Expedia Group 2022 Global Summer Internship Program as a Data Science, Analytics Intern, you’ll fully integrate into our inclusive community and gain a well-rounded experience of life at Expedia Group.",
+    "role":"Data Science, Analytics Intern",
+    "location":"Seattle, WA",
+    "time":"Summer 2022",
+    "responsibilities":"You'll identify partner teams' key challenges, provide/prototype solutions, and help solve using statistical analysis and tools; You'll decipher problems by identifying, and using, data sources, making reasonable assumptions, and then turn data into meaningful insights to help drive improvements for customers, for the business, and for our operations; You'll communicate insightful analyses findings and recommendations to support, influence and challenge business decisions to various levels of our leadership; You'll use of data visualization principles; You'll apply basic probabilistic thinking to business problems; You'll display good knowledge of our domain (i.e. travel, e-commerce), business objectives and critical reasoning skills; You'll become a data specialist and the point of contact for data questions and insights; You'll turn data-based findings and insights into hypotheses for AB testing; You'll review engagement and conversion trends across the network, identify breaks in trends, underlying drivers, and share opportunities and threats; You'll develop self-service reporting for product and development teams, by collecting and integrating data from sources, including web analysis tools and internal databases",
+    "qualifications":"Available to start on May 23rd or June 20th, 2022, for a 10-week program; Graduating in 2023 with a degree in a technical, or analytical-related, subject such as Computer Science, Marketing Science, Statistics, Mathematics, Analytics, Economics; Demonstrated experience solving problems with data querying using SQL, statistics and modelling in classes, projects or prior work experience; Have strong analytical skills and be self-motivated; Have skills in Tableau, R, Python are a bonus for data transformation, analysis and visualization; Effective communication skills and the ability to engage with a variety of partners (e.g., internal, external, technical, non-technical people)",
+    "img":"./img/expedia-logo.png",
+    "link":"https://lifeatexpediagroup.com/jobs/job?jobid=R-64865",
+    "liked": false
+  },
+
+  {
+    "company":"Splunk",
+    "description":"Leveraging the latest distributed computing, machine learning, large scale data ingestion and processing techniques the Security Engineering team builds world class products used at the heart of a customers’ security defenses. Our tool sets provide the insights necessary to quickly detect, respond to and recover from sophisticated cyber attacks. Delivered as both Cloud Native and Customer Managed products, Splunk Security Engineering products have deep customer penetration with over 80% of Fortune 500 customers using our products!",
+    "role":"Security Engineering Intern",
+    "location":"San Francisco, CA | Seattle, WA | San Jose, CA | Vancouver, WA",
+    "time":"Summer 2022",
+    "responsibilities":"Take ownership and responsibility to design, implement and release highly visible and impactful customer facing features; Learn and apply cutting edge technologies & techniques in the distributed computing, machine learning, cloud services and software security domains; Work closely with a highly collaborative, inclusive, accomplished and fun team!",
+    "qualifications":"Languages: Java, Go, Python, JavaScript / CSS / HTML; Frameworks: SpringBoot, Django, ReactJS; Technologies: Apache Pulsar, Apache Flink, Gradle, Prometheus, Grafana, Terraform, Kubernetes, Gitlab, AWS Aurora, DynamoDB, S3 and of course, many internal Splunk technologies",
+    "img":"./img/splunk-logo.png",
+    "link":"https://www.splunk.com/en_us/careers/jobs/security-engineering-intern-remote-21351.html",
+    "liked": false
+  }
+  
+]
