@@ -1,8 +1,10 @@
-# INFO 340 Project
+# InterNet
 
 This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
 InterNet is an internship finder service engineered to makes it easier for student to access and find internships.
+
+Access the website here: [https://internet-2c270.web.app/](https://internet-2c270.web.app/)
 
 ## Usage
 
