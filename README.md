@@ -4,7 +4,7 @@ This repository contains code for an interactive information web app, created fo
 
 InterNet is an internship finder service engineered to makes it easier for student to access and find internships.
 
-Access the website here: [https://internet-2c270.web.app/](https://internet-2c270.web.app/)
+Access the website here: [https://internet-7e208.web.app/](https://internet-7e208.web.app/)
 
 ## Usage
 
