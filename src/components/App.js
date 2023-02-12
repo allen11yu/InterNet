@@ -107,7 +107,7 @@ function App() {
         </Route>
 
         <Route exact path="/match">
-          <HomeMatch internshipData={matchedInternships} handleLikeCallback={handleLike} />
+          <HomeMatch internshipData={matchedInternships} handleLikeCallback={handleLike} isLogin={isLogin}/>
         </Route>
 
         <Route exact path="/profile">

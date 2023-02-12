@@ -215,9 +215,14 @@ div.carousel-indicators {
 
 /* Internship cards styling */
 .intern-card {
+  display: flex;
   width: 12rem;
+  height: 12rem;
   border: solid;
   margin-bottom: 10px;
+  justify-content: space-between;
+  flex-direction: column;
+  /* align-items: flex-end; */
 }
 
 .intern-card-info:hover {
@@ -226,18 +231,30 @@ div.carousel-indicators {
 }
 
 .intern-card-img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 50%;
+  max-height: 40%;
+  margin-top:15%;
   padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .intern-card-info {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   justify-content: space-between;
   padding-left: 10px;
   padding-right: 10px;
   margin-top: 10px;
+  overflow: hidden;
+  /* font-size: 5px; */
+  /* white-space: nowrap; */
+  /* text-overflow: clip; */
+  /* display: inline-block;
+  align-self: flex-end;
+  justify-content: space-between;
+  flex-direction: row; */
 }
 
 .intern-card-info p {
@@ -555,7 +572,7 @@ div.carousel-indicators {
     border-radius: 50%;
   }
 
- 
+
 }
 
 @media(min-width: 598px) {

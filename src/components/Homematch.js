@@ -4,9 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import MatchInternshipList from "./MatchInternshipList";
 import { Link } from 'react-router-dom';
 
-export default function HomeMatch({internshipData, handleLikeCallback}) {
+export default function HomeMatch({internshipData, handleLikeCallback, isLogin}) {
   let thingToRender = null;
-  if(internshipData.length === 0) {
+  if(internshipData.length === 0 | isLogin === false) {
     thingToRender = (
       <p className='fav-empty'>No matches found yet. Try adding some hashtags under the Skills section of the Profile page.</p>
     );

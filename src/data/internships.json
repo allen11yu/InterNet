@@ -257,7 +257,7 @@
     "img":"./img/amazon-logo.png",
     "link":"https://www.amazon.jobs/en/jobs/1839463/game-designer-internship-summer-2022-us",
     "liked": false
-  }, 
+  },
 
   {
     "company":"Tesla",
@@ -296,7 +296,7 @@
     "img":"./img/slack-logo.png",
     "link":"https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Software-Engineering-Intern---Slack_JRS00962-2",
     "liked": false
-  }, 
+  },
 
   {
     "company":"Expedia",
@@ -309,19 +309,6 @@
     "img":"./img/expedia-logo.png",
     "link":"https://lifeatexpediagroup.com/jobs/job?jobid=R-64865",
     "liked": false
-  },
-
-  {
-    "company":"Splunk",
-    "description":"Leveraging the latest distributed computing, machine learning, large scale data ingestion and processing techniques the Security Engineering team builds world class products used at the heart of a customers’ security defenses. Our tool sets provide the insights necessary to quickly detect, respond to and recover from sophisticated cyber attacks. Delivered as both Cloud Native and Customer Managed products, Splunk Security Engineering products have deep customer penetration with over 80% of Fortune 500 customers using our products!",
-    "role":"Security Engineering Intern",
-    "location":"San Francisco, CA | Seattle, WA | San Jose, CA | Vancouver, WA",
-    "time":"Summer 2022",
-    "responsibilities":"Take ownership and responsibility to design, implement and release highly visible and impactful customer facing features; Learn and apply cutting edge technologies & techniques in the distributed computing, machine learning, cloud services and software security domains; Work closely with a highly collaborative, inclusive, accomplished and fun team!",
-    "qualifications":"Languages: Java, Go, Python, JavaScript / CSS / HTML; Frameworks: SpringBoot, Django, ReactJS; Technologies: Apache Pulsar, Apache Flink, Gradle, Prometheus, Grafana, Terraform, Kubernetes, Gitlab, AWS Aurora, DynamoDB, S3 and of course, many internal Splunk technologies",
-    "img":"./img/splunk-logo.png",
-    "link":"https://www.splunk.com/en_us/careers/jobs/security-engineering-intern-remote-21351.html",
-    "liked": false
   }
-  
+
 ]
