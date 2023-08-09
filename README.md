@@ -1,6 +1,6 @@
 # InterNet
 
-This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
+This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool. Collaborated with Allen Yu, Andrew Michaels, Sharlene Fang, and Alan Zheng.
 
 InterNet is an internship finder service engineered to makes it easier for student to access and find internships.
 
